@@ -6,9 +6,7 @@ public Boolean sumEquals(Integer a, Integer b, Integer c) {
     if (a+b==c){
         return true;
     }
-    a=2;
-    b=8;
-    c=9;
+    
     else
         return false;
     }
